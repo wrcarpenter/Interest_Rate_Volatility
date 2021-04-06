@@ -1,4 +1,4 @@
-# Interest_Rate_Volatility
+# Interest Rate Volatility
 
 Inferring interest rate volatility from prevailing market derivative prices on caps/floors.  Implementation makes extensive use of the Black76 model (Black's Formula).
 
